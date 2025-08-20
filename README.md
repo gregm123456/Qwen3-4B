@@ -18,7 +18,7 @@ This version of Qwen3-4B-Int8 has been converted to run on the Axera NPU using *
 
 This model has been optimized with the following LoRA: 
 
-Compatible with Pulsar2 version: 4.0-temp(Not released yet)
+Compatible with Pulsar2 version: 4.2(Not released yet)
 
 ## Convert tools links:
 
