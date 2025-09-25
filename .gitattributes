@@ -38,3 +38,6 @@ main_ax650 filter=lfs diff=lfs merge=lfs -text
 main_axcl_aarch64 filter=lfs diff=lfs merge=lfs -text
 main_axcl_x86 filter=lfs diff=lfs merge=lfs -text
 qwen3_tokenizer/tokenizer.json filter=lfs diff=lfs merge=lfs -text
+main_api_ax650 filter=lfs diff=lfs merge=lfs -text
+main_api_axcl_aarch64 filter=lfs diff=lfs merge=lfs -text
+main_api_axcl_x86 filter=lfs diff=lfs merge=lfs -text
