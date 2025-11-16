@@ -33,7 +33,7 @@ https://huggingface.co/Qwen/Qwen3-4B
 ## Support Platform
 
 - AX650
-  - [M4N-Dock(爱芯派Pro)](https://wiki.sipeed.com/hardware/zh/maixIV/m4ndock/m4ndock.html)
+  - [M4N-Dock (爱芯派Pro / AiXinPai Pro)](https://wiki.sipeed.com/hardware/zh/maixIV/m4ndock/m4ndock.html)
   - [M.2 Accelerator card](https://axcl-docs.readthedocs.io/zh-cn/latest/doc_guide_hardware.html)
  
 |Chips|w8a16|w4a16|
@@ -79,7 +79,7 @@ None of PyTorch, TensorFlow >= 2.0, or Flax have been found. Models won't be ava
 Server running at http://0.0.0.0:12345
 ```
 
-#### Inference with AX650 Host, such as M4N-Dock(爱芯派Pro) or AX650N DEMO Board
+#### Inference with AX650 Host, such as M4N-Dock (爱芯派Pro / AiXinPai Pro) or AX650N DEMO Board
 
 Open another terminal and run `run_qwen3_4b_int8_ctx_ax650.sh`
 
