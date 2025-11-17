@@ -1,0 +1,11 @@
+# Ignore large model artifacts converted to axmodel/binary formats
+*.axmodel
+*.bin
+*.weight
+qwen3-4b-ax650/
+*.axmodel
+*.log
+*.pid
+# Keep tokenizers and code tracked
+!qwen3_tokenizer/
+!qwen3_tokenizer_uid.py
